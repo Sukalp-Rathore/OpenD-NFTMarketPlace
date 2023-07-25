@@ -1,19 +1,24 @@
-Copyright 2022 London App Brewery LTD (www.appbrewery.com)
+****Introduction****
+Welcome to the README file for the NFT Marketplace, a decentralized application (DApp) built using ReactJS and Motoko. This application allows users to buy, sell, and trade Non-Fungible Tokens (NFTs) on a blockchain network. The frontend is developed using ReactJS, while the backend and smart contracts are implemented using Motoko, a programming language for the Internet Computer blockchain.
 
-The code in this tutorial project is licended under the Apache License, Version 2.0 (the "License");
-you may not use this project except in compliance with the License.
-You may obtain a copy of the License at
+It's a NFT marketplace like OpenSea(https://opensea.io/) , this application includes all the core functionality of OpenSea . I named this marketplace as OpenD , you can use my own tokens named as DANG tokens to purchase NFTs from OpenD , this OpenD is connected with DFaucet Application which provides a new user 10000 DANG tokens to use . You can use these tokens to buy NFTs from OpenD or you can either transfer these tokens to other users . User can mint their own NFt and can earn DANG tokens on purchase . 
 
-    http://www.apache.org/licenses/LICENSE-2.0
+****Features:****
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+**NFT Listings:** Sellers can create listings for their NFTs by providing relevant details like title , price, and artwork/image.
 
-Here is the TL;DR version of the above licence:
-https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)
+**Buy NFTs:** Buyers can purchase NFTs using DANG tokens .
+
+**Wallet Integration:** Users can use DFaucet application to manage funds
+
+**Disclaimer:**
+
+This NFT Marketplace application and its smart contracts are provided as-is, without any warranty. Use it at your own risk. We are not responsible for any loss of funds or damages caused by the use of this application.
+
+Thank you for using the OpenD NFT Marketplace! Happy trading and collecting NFTs! 🚀
+
+
+
 
 # To Install and Run the Project
 
